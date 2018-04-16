@@ -9,3 +9,14 @@ C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\06-FSWO104-CS\19-ASP
 C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\06-FSWO104-CS\19-ASP.NET Core Project\SchoolEnrollmentApp\SchoolEnrollmentApp\obj\Debug\netcoreapp2.0\SchoolEnrollmentApp.AssemblyInfo.cs
 C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\06-FSWO104-CS\19-ASP.NET Core Project\SchoolEnrollmentApp\SchoolEnrollmentApp\obj\Debug\netcoreapp2.0\SchoolEnrollmentApp.dll
 C:\Users\bo.johnson\OneDrive\projects\00.letterx\BethelTech\06-FSWO104-CS\19-ASP.NET Core Project\SchoolEnrollmentApp\SchoolEnrollmentApp\obj\Debug\netcoreapp2.0\SchoolEnrollmentApp.pdb
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\bin\Debug\netcoreapp2.0\SchoolEnrollmentApp.deps.json
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\bin\Debug\netcoreapp2.0\SchoolEnrollmentApp.runtimeconfig.json
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\bin\Debug\netcoreapp2.0\SchoolEnrollmentApp.runtimeconfig.dev.json
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\bin\Debug\netcoreapp2.0\SchoolEnrollmentApp.dll
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\bin\Debug\netcoreapp2.0\SchoolEnrollmentApp.pdb
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\obj\Debug\netcoreapp2.0\SchoolEnrollmentApp.csprojResolveAssemblyReference.cache
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\obj\Debug\netcoreapp2.0\SchoolEnrollmentApp.csproj.CoreCompileInputs.cache
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\obj\Debug\netcoreapp2.0\SchoolEnrollmentApp.AssemblyInfoInputs.cache
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\obj\Debug\netcoreapp2.0\SchoolEnrollmentApp.AssemblyInfo.cs
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\obj\Debug\netcoreapp2.0\SchoolEnrollmentApp.dll
+C:\Users\x\Desktop\FSWO104-CS-Final\SchoolEnrollmentApp\obj\Debug\netcoreapp2.0\SchoolEnrollmentApp.pdb

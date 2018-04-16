@@ -15,6 +15,8 @@ namespace SchoolEnrollmentApp.Models
                 serviceProvider.GetRequiredService<DbContextOptions<SchoolEnrollmentAppContext>>()))
             {
                 // Check if any students or courses already exist
+                context.Database.EnsureCreated();
+
                 if (context.Student.Any() || context.Course.Any())
                 {
                     return;

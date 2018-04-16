@@ -13124,23 +13124,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bo.johnson\\.nuget\\packages\\": {},
+    "C:\\Users\\x\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bo.johnson\\OneDrive\\projects\\00.letterx\\BethelTech\\06-FSWO104-CS\\19-ASP.NET Core Project\\SchoolEnrollmentApp\\SchoolEnrollmentApp\\SchoolEnrollmentApp.csproj",
+      "projectUniqueName": "C:\\Users\\x\\Desktop\\FSWO104-CS-Final\\SchoolEnrollmentApp\\SchoolEnrollmentApp.csproj",
       "projectName": "SchoolEnrollmentApp",
-      "projectPath": "C:\\Users\\bo.johnson\\OneDrive\\projects\\00.letterx\\BethelTech\\06-FSWO104-CS\\19-ASP.NET Core Project\\SchoolEnrollmentApp\\SchoolEnrollmentApp\\SchoolEnrollmentApp.csproj",
-      "packagesPath": "C:\\Users\\bo.johnson\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bo.johnson\\OneDrive\\projects\\00.letterx\\BethelTech\\06-FSWO104-CS\\19-ASP.NET Core Project\\SchoolEnrollmentApp\\SchoolEnrollmentApp\\obj\\",
+      "projectPath": "C:\\Users\\x\\Desktop\\FSWO104-CS-Final\\SchoolEnrollmentApp\\SchoolEnrollmentApp.csproj",
+      "packagesPath": "C:\\Users\\x\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\x\\Desktop\\FSWO104-CS-Final\\SchoolEnrollmentApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bo.johnson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\x\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
